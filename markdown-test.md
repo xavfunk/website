@@ -1,3 +1,8 @@
+---
+title: md test
+layout: default
+---
+
 # H1
 
 # H2
