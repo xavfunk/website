@@ -1,6 +1,6 @@
 ---
 title: md test
-layout: default
+layout: markdown
 ---
 
 # H1
